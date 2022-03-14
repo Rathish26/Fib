@@ -5,7 +5,7 @@ public class Fibonacci {
 
 		int pf = 1, sf = 0, cr = 0;
 				
-		for(int i = 1; i<=10; i++) {
+		for(int i = 1; i<=8; i++) {
 			
 			System.out.println(cr);
 			
